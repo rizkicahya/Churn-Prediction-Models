@@ -20,6 +20,6 @@ Minimized Acquisition Cost.
 
 ## Dataset
 
-The dataset that I will use is from Kaggle.com. You may visit the dataset through this [link]((https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)).
+The dataset that I will use is from Kaggle.com. You may visit the dataset through this [link][((https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn))](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn).
 
 This dataset contains 18 variables (columns) and 10000 observations (rows).
